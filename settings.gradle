@@ -1,0 +1,2 @@
+rootProject.name = "DAMP_FINAL2"
+include ':app'
